@@ -8,6 +8,6 @@ print(type(var_1))
 #sum = var_1 + var_2     var_1 is string 
 
 sum = int(var_1) + int(var_2)
-
+print(type(sum))
 print(sum)
 
